@@ -1,1 +1,1 @@
-### Hi it's me a student who learn web technologies 👋
+### Hi it's simple web testing
